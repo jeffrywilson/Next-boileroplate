@@ -1,0 +1,631 @@
+{
+  "pageProps": {
+    "account": {
+      "id": 2339372,
+      "uuid": "85d19ba9-3f5d-11eb-85b8-0a26086d88df",
+      "username": "garyvee",
+      "tier": "free",
+      "isActive": true,
+      "profilePictureUrl": "https://d1fdloi71mui9q.cloudfront.net/2dO9iKa7R9ijJ8402nHq_961961328ed1a3de55d5d083e8dd6793",
+      "pageTitle": "Gary Vaynerchuk",
+      "googleAnalyticsId": null,
+      "facebookPixelId": "380822665420224",
+      "tiktokPixelId": null,
+      "donationsActive": false,
+      "causeBanner": null,
+      "contentWarning": null,
+      "description": null,
+      "isLogoVisible": true,
+      "socialLinksPosition": "BOTTOM",
+      "useFooterSignup": true,
+      "useSignupLink": false,
+      "createdAt": 1557964408000,
+      "updatedAt": 1623246572000,
+      "expandableLinkCaret": true,
+      "verticals": null,
+      "customAvatar": "https://d1fdloi71mui9q.cloudfront.net/2dO9iKa7R9ijJ8402nHq_961961328ed1a3de55d5d083e8dd6793",
+      "showRepeatVisitorSignupCta": true,
+      "profileBadges": null,
+      "isShareButtonEnabled": false,
+      "isVenmoEnabled": false,
+      "isCookieBannerEnabled": false,
+      "owner": {
+        "id": 2639530,
+        "isEmailVerified": true
+      },
+      "pageMeta": {
+        "title": "Gary Vaynerchuk",
+        "description": "Listen to the GaryVee Audio Experience"
+      },
+      "integrations": [],
+      "links": [
+        {
+          "id": 10039912,
+          "type": "CLASSIC",
+          "title": "iTunes",
+          "position": 1,
+          "url": "https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=itunes",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/Tu2BJNRRBKtUC7vDp16x_708dfd70802d41a6fa3cc9535b60b3c6",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10038371,
+          "type": "CLASSIC",
+          "title": "Spotify",
+          "position": 2,
+          "url": "https://open.spotify.com/show/6SZVsPIxPfVs6aavqM1peY?si=TpS2fY3KSJKWzOocDc4jUA\u0026utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=spotify",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/XVW7xi6Qg2ZOG7YVTb2R_53427c4698f7ab78527273fa7167e8c4d",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10039998,
+          "type": "CLASSIC",
+          "title": "SoundCloud",
+          "position": 3,
+          "url": "https://soundcloud.com/garyvee/tracks?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=soundcloud",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/xIsuNjB8TqSF8kOR1SMU_4919f28fc9ab2f964fbd0e26ffba0f141",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10040081,
+          "type": "CLASSIC",
+          "title": "Stitcher",
+          "position": 4,
+          "url": "https://www.stitcher.com/podcast/the-askgaryvee-show?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=stitcher",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/3xnqzOZRTCXQNE5uNDrA_7ef1d992662478397497c4e317eccf3cf",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10040134,
+          "type": "CLASSIC",
+          "title": "Overcast",
+          "position": 5,
+          "url": "https://overcast.fm/itunes928159684/the-garyvee-audio-experience?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=overcast",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/IIJSOjQ3TP6Wfjbd66vD_313dfc74c328cfcca49b962f9b133a83e",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10040258,
+          "type": "CLASSIC",
+          "title": "iHeartRadio",
+          "position": 6,
+          "url": "https://www.iheart.com/podcast/263-the-askgaryvee-show-27754057/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=iheartradio",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/oKbpXB2eTle5O6nN9q1u_b636a08a5085fe483795431b5283d989",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10040301,
+          "type": "CLASSIC",
+          "title": "TuneIn",
+          "position": 7,
+          "url": "https://tunein.com/podcasts/Entrepreneurship/The-GaryVee-Audio-Experience-p653815/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=tunein",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/sj46G7OzTy6v4d8qHaso_aee5638ec2d156661dc45b8f2dd94484",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 10040385,
+          "type": "CLASSIC",
+          "title": "Castbox",
+          "position": 8,
+          "url": "https://castbox.fm/channel/The-GaryVee-Audio-Experience-id257325?country=us\u0026utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=castbox",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/onmeIRSJTk2c98BDptZM_49ccc830545a6b96691f6434f76febc93",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 11961290,
+          "type": "CLASSIC",
+          "title": "Sign up to join my texting community",
+          "position": 9,
+          "url": "http://my.community.com/gary.vaynerchuk?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=sign+up+to+join+my+texting+community",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/XlCMvvWgQwya4RrzVz22_98d5b578c2c73a4ffe6c1283db2b012f9",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 11961218,
+          "type": "CLASSIC",
+          "title": "Did you know I have a DTC wine brand?",
+          "position": 10,
+          "url": "https://empathywines.com/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=did+you+know+i+have+a+dtc+wine+brand%3F",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/X1BnkJMYRBmEEGNqmwAh_9ceda939249ca3ca6742c37a9dfeda476",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        },
+        {
+          "id": 11961230,
+          "type": "CLASSIC",
+          "title": "Are you subscribed to my YouTube?",
+          "position": 12,
+          "url": "http://garyvee.com/youtubeGaryveeSUB?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=are+you+subscribed+to+my+youtube%3F",
+          "modifiers": {
+            "animation": null,
+            "isForwarding": false,
+            "isForwardingActive": false,
+            "thumbnailUrl": "https://d1fdloi71mui9q.cloudfront.net/CD5kq6C8QeavLCdMlqa4_5d7896688ae3f7a8c5c8a9661546654a",
+            "amazonAffiliate": null
+          },
+          "context": null,
+          "rules": {
+            "gate": {
+              "activeOrder": null,
+              "age": null,
+              "passcode": null
+            }
+          }
+        }
+      ],
+      "socialLinks": [
+        {
+          "type": "FACEBOOK",
+          "url": "https://www.facebook.com/gary"
+        },
+        {
+          "type": "TWITTER",
+          "url": "https://twitter.com/garyvee"
+        },
+        {
+          "type": "INSTAGRAM",
+          "url": "https://instagram.com/garyvee"
+        },
+        {
+          "type": "YOUTUBE",
+          "url": "https://www.youtube.com/user/GaryVaynerchuk"
+        },
+        {
+          "type": "SOUNDCLOUD",
+          "url": "https://soundcloud.com/garyvee/tracks"
+        },
+        {
+          "type": "LINKEDIN",
+          "url": "https://www.linkedin.com/in/garyvaynerchuk/"
+        },
+        {
+          "type": "TWITCH",
+          "url": "https://www.twitch.tv/garyvee"
+        }
+      ],
+      "theme": {
+        "key": "smoke"
+      }
+    },
+    "isProfileVerified": true,
+    "hasConsentedToView": true,
+    "username": "garyvee",
+    "pageTitle": "Gary Vaynerchuk",
+    "description": null,
+    "socialLinks": [
+      {
+        "type": "FACEBOOK",
+        "url": "https://www.facebook.com/gary"
+      },
+      {
+        "type": "TWITTER",
+        "url": "https://twitter.com/garyvee"
+      },
+      {
+        "type": "INSTAGRAM",
+        "url": "https://instagram.com/garyvee"
+      },
+      {
+        "type": "YOUTUBE",
+        "url": "https://www.youtube.com/user/GaryVaynerchuk"
+      },
+      {
+        "type": "SOUNDCLOUD",
+        "url": "https://soundcloud.com/garyvee/tracks"
+      },
+      {
+        "type": "LINKEDIN",
+        "url": "https://www.linkedin.com/in/garyvaynerchuk/"
+      },
+      {
+        "type": "TWITCH",
+        "url": "https://www.twitch.tv/garyvee"
+      }
+    ],
+    "integrations": [],
+    "theme": {
+      "key": "smoke",
+      "mode": "dark",
+      "colors": {
+        "body": "#fff",
+        "linkBackground": "#fff",
+        "linkText": "#3d3b3c"
+      },
+      "components": {
+        "ProfileBackground": {
+          "backgroundColor": "#3d3b3c",
+          "backgroundStyle": "flat"
+        },
+        "LinkContainer": {
+          "borderType": "squared",
+          "styleType": "fill"
+        },
+        "SocialLink": {
+          "fill": "linkBackground"
+        },
+        "Banner": {
+          "default": {
+            "backgroundColor": "linkBackground",
+            "color": "linkText"
+          }
+        },
+        "Footer": {
+          "logo": "white-green"
+        }
+      }
+    },
+    "metaTitle": "Gary Vaynerchuk | Linktree",
+    "metaDescription": "Listen to the GaryVee Audio Experience",
+    "profilePictureUrl": "https://d1fdloi71mui9q.cloudfront.net/2dO9iKa7R9ijJ8402nHq_961961328ed1a3de55d5d083e8dd6793",
+    "links": [
+      {
+        "id": "10039912",
+        "title": "iTunes",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/Tu2BJNRRBKtUC7vDp16x_708dfd70802d41a6fa3cc9535b60b3c6",
+        "url": "https://podcasts.apple.com/us/podcast/the-garyvee-audio-experience/id928159684?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=itunes",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 1,
+        "locked": null
+      },
+      {
+        "id": "10038371",
+        "title": "Spotify",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/XVW7xi6Qg2ZOG7YVTb2R_53427c4698f7ab78527273fa7167e8c4d",
+        "url": "https://open.spotify.com/show/6SZVsPIxPfVs6aavqM1peY?si=TpS2fY3KSJKWzOocDc4jUA\u0026utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=spotify",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 2,
+        "locked": null
+      },
+      {
+        "id": "10039998",
+        "title": "SoundCloud",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/xIsuNjB8TqSF8kOR1SMU_4919f28fc9ab2f964fbd0e26ffba0f141",
+        "url": "https://soundcloud.com/garyvee/tracks?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=soundcloud",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 3,
+        "locked": null
+      },
+      {
+        "id": "10040081",
+        "title": "Stitcher",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/3xnqzOZRTCXQNE5uNDrA_7ef1d992662478397497c4e317eccf3cf",
+        "url": "https://www.stitcher.com/podcast/the-askgaryvee-show?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=stitcher",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 4,
+        "locked": null
+      },
+      {
+        "id": "10040134",
+        "title": "Overcast",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/IIJSOjQ3TP6Wfjbd66vD_313dfc74c328cfcca49b962f9b133a83e",
+        "url": "https://overcast.fm/itunes928159684/the-garyvee-audio-experience?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=overcast",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 5,
+        "locked": null
+      },
+      {
+        "id": "10040258",
+        "title": "iHeartRadio",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/oKbpXB2eTle5O6nN9q1u_b636a08a5085fe483795431b5283d989",
+        "url": "https://www.iheart.com/podcast/263-the-askgaryvee-show-27754057/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=iheartradio",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 6,
+        "locked": null
+      },
+      {
+        "id": "10040301",
+        "title": "TuneIn",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/sj46G7OzTy6v4d8qHaso_aee5638ec2d156661dc45b8f2dd94484",
+        "url": "https://tunein.com/podcasts/Entrepreneurship/The-GaryVee-Audio-Experience-p653815/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=tunein",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 7,
+        "locked": null
+      },
+      {
+        "id": "10040385",
+        "title": "Castbox",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/onmeIRSJTk2c98BDptZM_49ccc830545a6b96691f6434f76febc93",
+        "url": "https://castbox.fm/channel/The-GaryVee-Audio-Experience-id257325?country=us\u0026utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=castbox",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 8,
+        "locked": null
+      },
+      {
+        "id": "11961290",
+        "title": "Sign up to join my texting community",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/XlCMvvWgQwya4RrzVz22_98d5b578c2c73a4ffe6c1283db2b012f9",
+        "url": "http://my.community.com/gary.vaynerchuk?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=sign+up+to+join+my+texting+community",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 9,
+        "locked": null
+      },
+      {
+        "id": "11961218",
+        "title": "Did you know I have a DTC wine brand?",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/X1BnkJMYRBmEEGNqmwAh_9ceda939249ca3ca6742c37a9dfeda476",
+        "url": "https://empathywines.com/?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=did+you+know+i+have+a+dtc+wine+brand%3F",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 10,
+        "locked": null
+      },
+      {
+        "id": "11961230",
+        "title": "Are you subscribed to my YouTube?",
+        "context": {},
+        "animation": null,
+        "thumbnail": "https://d1fdloi71mui9q.cloudfront.net/CD5kq6C8QeavLCdMlqa4_5d7896688ae3f7a8c5c8a9661546654a",
+        "url": "http://garyvee.com/youtubeGaryveeSUB?utm_medium=social\u0026utm_source=linktree\u0026utm_campaign=are+you+subscribed+to+my+youtube%3F",
+        "amazonAffiliate": null,
+        "type": "CLASSIC",
+        "rules": {
+          "gate": {
+            "activeOrder": null,
+            "age": null,
+            "passcode": null
+          }
+        },
+        "position": 12,
+        "locked": null
+      }
+    ],
+    "leapLink": null,
+    "isOwner": false,
+    "isLogoVisible": true,
+    "mobileDetected": false,
+    "stage": "production",
+    "environment": {
+      "LINK_TYPES_ASSETS_ENDPOINT": "https://link-types-assets.linktr.ee",
+      "STRIPE_PAYMENTS_API_ENDPOINT": "https://stripe-payments.linktr.ee",
+      "STRIPE_PUBLISHABLE_KEY": "pk_live_51IdFBuL9SYJKPuFO2CTt5Wrpw46qcwd1ZjWC4MLOYi1aUXIfhfRbK7EkDJgMVQVaTcOceuPpCEnkv0g7J6TgkNdD00TD9bsb4o",
+      "PAYPAL_PAYMENTS_API_ENDPOINT": "https://paypal-payments.linktr.ee",
+      "PAYPAL_PAYMENTS_CLIENT_ID": "ATsU006_NqnC_Jk_W49YoQSnMh9kDXgMY_IVkUhJbutOkhQ7F8wlTWoJHyi2GteXaczfOGu22BSdWopq",
+      "SHOPIFY_INTEGRATIONS_API_ENDPOINT": "https://shopify-integrations.linktr.ee",
+      "META_IMAGE_URL": "https://assets.production.linktr.ee/profiles/default-meta-image.jpg",
+      "RECAPTCHA_SITE_KEY": "6LdGYT4cAAAAANW9oE1Sa2AxBi8b9ZAbmvYBPnZm",
+      "RECAPTCHA_SITE_KEY_INVISIBLE": "6LcGlm0dAAAAAMfsVsJl3MZtjI-cKhBYzq5RPEo4",
+      "MESH_ENDPOINT": "https://graph.linktr.ee/graphql"
+    },
+    "contentGating": "none",
+    "videoStructuredData": [],
+    "hasSensitiveContent": false,
+    "auth0Config": {
+      "clientID": "rdPMLphw1ztUXo52bXtf3ah07kSUWguy",
+      "domain": "auth.linktr.ee",
+      "redirectUri": "https://linktr.ee/auth/callback",
+      "responseType": "token id_token",
+      "responseMode": "form_post",
+      "audience": "https://linktr.ee/api"
+    },
+    "followerNotificationsEnabled": false,
+    "followerCapabilities": {}
+  }
+}
